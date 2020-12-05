@@ -2,6 +2,6 @@
 
 En este repositorio se muestra un ejemplo para levantar un servidor con Express
 
-Javascript
-Node
-Express
+- Javascript
+- Node
+- Express
