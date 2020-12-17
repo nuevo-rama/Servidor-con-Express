@@ -17,3 +17,8 @@ En terminal ingresar:
 npm init
 npm install express
 ```
+----
+```
+require express
+require path
+```
